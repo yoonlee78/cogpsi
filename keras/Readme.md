@@ -1,6 +1,6 @@
 # CogPsi. Season 2:Keras.
 
 ## Week 1. Introduction 
-  - datatypes.ipynb
-  - deeplearning_and_keras_intro.ipynb
-  - imbd_review.ipynb
+  - 1_datatypes.ipynb
+  - 2_deeplearning_and_keras_intro.ipynb
+  - 3_imbd_review.ipynb
