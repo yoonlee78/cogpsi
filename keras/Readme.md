@@ -4,7 +4,7 @@ Every other Tuesdays, 7 PM, Seoul. <br>
 If you want to participate, please contact me!
 
 #### Week 1. 
-Chapter ~ 3.5. Introduction & IMDB dataset practice
+Chapter ~ 3.5. Introduction & IMDB dataset practice <br>
 folder : Intro
   
 #### Week 2. 
