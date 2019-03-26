@@ -6,6 +6,11 @@ If you want to participate, please contact me!
 #### Week 1. Introduction 
 folder : Intro
   
-#### Week 2. Chapter 3.5. Reuters Data Set : Multiclass classification 
+#### Week 2. 
+
+Chapter 3.6. Reuters Data Set : Multiclass classification 
 folder : chp3_reuters
+
+Chapter 4.7. Boston House Price Prediction
+folder : chp3_house
 
