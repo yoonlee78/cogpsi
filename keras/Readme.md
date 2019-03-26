@@ -8,9 +8,9 @@ folder : Intro
   
 #### Week 2. 
 
-Chapter 3.6. Reuters Data Set : Multiclass classification 
+Chapter 3.6. Reuters Data Set : Multiclass classification <br>
 folder : chp3_reuters
 
-Chapter 4.7. Boston House Price Prediction
+Chapter 4.7. Boston House Price Prediction <br>
 folder : chp3_house
 
