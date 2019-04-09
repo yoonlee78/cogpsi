@@ -16,14 +16,11 @@ Chapter 3.6. Boston House Price Prediction <br>
 folder : chp3_house <br>
 
 * for fundamentals of machine learning, I highly recommend you to get yourself familiarized with following materiasl: <br>
-    1) [Introduction to Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning) <br>
-    
-    2) (for Korean) [인공지능 및 기계학습 개론](https://kaist.edwith.org/machinelearning1_17)<br>
-    
-    2-1) (for Korean) [인공지능 및 기계학습 심화](https://kaist.edwith.org/aiml-adv) 
-    
-    for practice <br>
-    3) [Hands-on Machine Learning by Aurélien Géron](http://shop.oreilly.com/product/0636920052289.do)[github](https://github.com/ageron/handson-ml) 
+   - [Introduction to Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning) <br>
+   - (for Korean) [인공지능 및 기계학습 개론](https://kaist.edwith.org/machinelearning1_17)<br>
+   - (for Korean) [인공지능 및 기계학습 심화](https://kaist.edwith.org/aiml-adv) 
+   - [Hands-on Machine Learning by Aurélien Géron](http://shop.oreilly.com/product/0636920052289.do)*for practice. <br>
+   [github](https://github.com/ageron/handson-ml) 
     <br>
 
 #### Week 3. Deep learning for text and sequences
