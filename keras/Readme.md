@@ -26,7 +26,7 @@ folder : chp3_house <br>
 #### Week 3. Deep learning for text and sequences
 
 Chapter 06. Deep learning for text and sequences <br>
-folder: chp4_text_and_sequences <br>
+folder: chp6_text_and_sequences <br>
 
 Special. Spoken Language Processing_기본 요소 <br>
 folder: SLP <br>
