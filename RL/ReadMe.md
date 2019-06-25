@@ -3,7 +3,7 @@
 Season 3: RL & NLP <br>
 Syllabus 2019
 
-<img src = "./cogpsiRLNLP_poster.jpg "/>
+<img src = "./cogpsiRLNLP_poster.jpg  " width = 300 />
 
     <요약>
 
@@ -12,6 +12,8 @@ Syllabus 2019
     장소:  서울대입구역 근처 (유니버스 이벤트로 공지)
 
 ### [1회차 이벤트](https://www.facebook.com/events/2125042364460334/?hc_location=ufi)
+
+문의: [YK LEE](https://web.facebook.com/yklee78)
 
 ### 교재
 
@@ -77,5 +79,3 @@ Syllabus 2019
 - 스터디 내용: 발제 자료는 스터디 대화창에, 후기/인증샷은 유니버스 그룹에 공유합니다.
 
 - 본 스터디는 강의형이 아닌, _자기주도학습_ 스터디입니다. 발표자가 (준비하면서) 가장 많이 배우는 구조라고 생각하시면 됩니다.
-
-문의: YK LEE
