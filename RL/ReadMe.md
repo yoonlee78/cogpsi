@@ -1,6 +1,7 @@
 ## CogPsi
 
-Season 3: RL & NLP <br>
+## Season 3: RL & NLP <br>
+
 Syllabus 2019
 
 <img src = "./cogpsiRLNLP_poster.jpg  " width = 300 />
