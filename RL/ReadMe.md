@@ -40,36 +40,36 @@ Syllabus 2019
 - Week 1 | July 01
 
   - RL: 01. 강화학습 개요
-    - 발제: [YK LEE](github.com/yoonlee78)
+    - 발제: [YK LEE](https://github.com/yoonlee78)
   - DeepNLP: Week 01. Sentiment in Text
-    - 발제: [홍남수](github.com/sucream)
+    - 발제: [홍남수](https://github.com/sucream)
 
 - Week 2 | July 08
 
   - RL: <특강> AlphaStar 첫걸음
-    - 발제: [김무성](github.com/mooithub)
+    - 발제: [김무성](https://github.com/mooithub)
   - DeepNLP: Week 02. Word Embeddings.
     - 발제: TBA
 
 - Week 3 | July 15
 
   - RL: 02. MDP와 벨만 방정식
-    - 발제: [YK LEE](github.com/yoonlee78)
+    - 발제: [YK LEE](https://github.com/yoonlee78)
   - DeepNLP: Week 03. Sequence Models
-    - 발제: [홍남수](github.com/sucream)
+    - 발제: [홍남수](https://github.com/sucream)
 
 - Week 4 | July 22
 
   - RL: 03.그리드 월드와 다이내믹 프로그래밍
-    - 발제: [YK LEE](github.com/yoonlee78)
+    - 발제: [YK LEE](https://github.com/yoonlee78)
   - DeepNLP: Week 04. Sequence Models and literature
     - 발제: TBA
 
 - Week 5 | July 29
   - RL: 04. 그리드월드와 큐러닝
-    - 발제: [YK LEE](github.com/yoonlee78)
+    - 발제: [YK LEE](https://github.com/yoonlee78)
   - DeepNLP: TBA
-    - 발제: [홍남수](github.com/sucream)
+    - 발제: [홍남수](https://github.com/sucream)
 
 ### 안내
 
