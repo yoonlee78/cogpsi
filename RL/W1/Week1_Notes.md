@@ -49,7 +49,7 @@ V. Examples of RL: DeepMind 'Breakout' <br>
       - supervisor Y/N
       - labeled examples Y/N
 
-    - unsupervised learning? <br>
+   - unsupervised learning? <br>
       - reward-seeking? Y/N <br>
       - hidden structure = reward maximizing action ? Y/N <br>
 
