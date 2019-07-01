@@ -55,7 +55,7 @@ V. Examples of RL: DeepMind 'Breakout' <br>
 
 ----
 
-II. Components: Agent, State, and Reward
+## II. Components: Agent, State, and Reward
 
 (pic2)
 
@@ -124,7 +124,7 @@ The optimal policy = the one guarentees max(reward)
 5.2. Goal 2
     어떤 상태에서는 어떤 행동을 해야 최대의 보상(max(reward)을 받을 수 있는지를 배워야한다 = learn 'optimal policy'.
 
-III. Features <br>
+## III. Features <br>
 
 - planning (revisit later) <br>
 - no prior knowledge is necessary
@@ -146,17 +146,17 @@ video [link]("https://gym.openai.com/videos/2019-05-31--eRh4Fbp8G5/CartPole-v1/o
 <문제 정의>
 결정을 순차적으로 내려야하는 문제를 '수학적'으로 표현할 수 있어야함. 
 
-1. MDP
+### 1. MDP
 
 "**Markov decision process** is the simplest possible form (formalization) of sensation, action, and goal."(Sutton).
 
-2. Components of 'MDP'
+### 2. Components of 'MDP'
 
 - state 
 - action
 - reward
 
-3. Example: 
+### 3. Example: 
 
 - **Chess player**: planning and intuitive judgemnts of the desirability of particular positions and moves
 
@@ -167,12 +167,13 @@ video [link]("https://gym.openai.com/videos/2019-05-31--eRh4Fbp8G5/CartPole-v1/o
 - Super Mario ?
 
 ----
+## V. Applications <br>
 
 "Playing Atari with Deep Reinforcement Learning by DeepMind"
 
 [Breakout](https://www.youtube.com/watch?v=TmPfTpjtdgg)
 
-1. MDP Definition (according to DeepMind)
+### 1. MDP Definition (according to DeepMind)
 
 1.1. State
 
@@ -193,7 +194,7 @@ Left, Right, Hold, Fire
 아무 것도 깨지 않으면 0
 죽으면 -1
 
-2. Learning (**to revisit later in Chapter 05**)
+### 2. Learning (**to revisit later in Chapter 05**)
 
 (1) 처음에는 아무 것도 모름 => (2) 몇 개 깨기 시작 -> (3) 보상
 
@@ -207,7 +208,4 @@ Q function : 행동이 얼마나 좋은지에 대한 확률 값. 상태 i에서 
 
 그 외 DQN이 특별한 점 (replay buffer, target neural network + learning network..etc.)은 이후 챕터에서 revisit. 
 
-
-
-
-
+- to be continued..
