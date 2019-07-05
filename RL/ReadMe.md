@@ -46,10 +46,10 @@ Syllabus 2019
 
 - Week 2 | July 08
 
-  - RL: <특강> AlphaStar 첫걸음
+  - RL: <특강> OpenAI Gym 소개 및 실습 
     - 발제: [김무성](https://github.com/mooithub)
   - DeepNLP: Week 02. Word Embeddings.
-    - 발제: TBA
+    - 발제: [홍남수](https://github.com/sucream)
 
 - Week 3 | July 15
 
