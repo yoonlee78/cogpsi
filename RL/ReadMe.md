@@ -1,10 +1,10 @@
 ## CogPsi
 
-## Season 3: PyTorch <br>
+## Season 4: PyTorch <br>
 
 Syllabus 2019
 
-<img src = "./cogpsi_poster_S4.png  " width = 300 />
+<img src = "./cogpsi_poster_S4.png" width = 300 />
 
     <요약>
 
