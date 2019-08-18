@@ -63,7 +63,7 @@ Syllabus 2019
   - DeepNLP: Week 04. Sequence Models and literature
     - 발제: TBA
 
-- Week 5 | July 29
+- Week 5 | July 29 <br>
 Break
 
 --- Season 4 : 
@@ -80,10 +80,9 @@ Break
   - RL: 6 Temporal-Difference Learning
     - 발제: [YK LEE](https://github.com/yoonlee78)
   - PyTorch RL : Chapter 4. The Cross-Entropy Method
-    - 발제: 김무성
+    - 발제: [김무성](https://github.com/yoonlee78/cogpsi/tree/master/Pytorch-RL)
   - PyTorch NLP : SpaCY & PyTorch Tutorials  
     - 발제: 김무성
-
 
 - Week 3 | Aug 19
   - RL: 07. n-step Bootstrapping
