@@ -1,0 +1,6 @@
+[submodule "DeepNLP/course-nlp"]
+	path = DeepNLP/fastai-course-nlp
+	url = https://github.com/fastai/course-nlp.git
+[submodule "Pytorch-RL/Deep-Reinforcement-Learning-Hands-On"]
+	path = Pytorch-RL/Deep-Reinforcement-Learning-Hands-On
+	url = https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On.git
