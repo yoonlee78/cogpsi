@@ -1,18 +1,16 @@
 ## CogPsi
 
-## Season 3: RL & NLP <br>
+## Season 3: PyTorch <br>
 
 Syllabus 2019
 
-<img src = "./cogpsiRLNLP_poster.jpg  " width = 300 />
+<img src = "./cogpsi_poster_S4.png  " width = 300 />
 
     <요약>
 
     시간 : 매주 월요일 저녁 7시 - 9시
 
     장소:  서울대입구역 근처 (유니버스 이벤트로 공지)
-
-### [1회차 이벤트](https://www.facebook.com/events/2125042364460334/?hc_location=ufi)
 
 문의: [YK LEE](https://web.facebook.com/yklee78)
 
@@ -66,10 +64,38 @@ Syllabus 2019
     - 발제: TBA
 
 - Week 5 | July 29
-  - RL: 04. 그리드월드와 큐러닝
+Break
+
+--- Season 4 : 
+
+- Week 1 | Aug 5
+  - RL: 04. Dynamic Programing (2) - Value Iteration & 05. Monte Carlo Methods
     - 발제: [YK LEE](https://github.com/yoonlee78)
-  - DeepNLP: TBA
-    - 발제: [홍남수](https://github.com/sucream)
+  - PyTorch RL : Chapter 2, OpenAI Gym & Chapter 3, Deep Learning with PyTorch
+    - 발제: 김무성
+  - PyTorch NLP : Week 01. Introduction and Word Vectors & Gensim word vectors example. 
+    - 발제: 김무성
+    
+- Week 2 | Aug 12
+  - RL: 6 Temporal-Difference Learning
+    - 발제: [YK LEE](https://github.com/yoonlee78)
+  - PyTorch RL : Chapter 4. The Cross-Entropy Method
+    - 발제: 김무성
+  - PyTorch NLP : SpaCY & PyTorch Tutorials  
+    - 발제: 김무성
+
+
+- Week 3 | Aug 19
+  - RL: 07. n-step Bootstrapping
+    - 발제: [YK LEE](https://github.com/yoonlee78)
+  - PyTorch RL : Chapter 04. The Cross-Entropy Method
+    - 발제: 조원익
+  - PyTorch NLP: 5. Language modeling & sentiment classification with deep learning
+    - 발제: TBA
+
+- Week 4 | Aug 26
+    - TBA
+
 
 ### 안내
 
